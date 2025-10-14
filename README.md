@@ -24,8 +24,8 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ###PROGRAM
 ### ORIGINAL IMAGE
 ```
-NAME : SUBASH E
-REG NO : 212223040209
+NAME : RAMPRASATH R
+REG NO : 212223220086
 
 
 
